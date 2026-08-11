@@ -92,12 +92,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilgadekar-gif&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9C9C9" alt="GitHub Stats" width="49%" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgadekar-gif&theme=dark&hide_border=true&background=0D0D0D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Streak Stats" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgadekar-gif&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=C9C9C9" alt="Top Languages" width="60%" />
 </div>
 
 ---
